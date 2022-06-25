@@ -1,0 +1,21 @@
+{
+    "horses": [
+      {
+          "horseID": 1,
+          "horseName": "Midnight Sun",
+          "horseBreed": "Tennessee Walking Horse",
+          "horseGender": "male",
+          "horseColor": "Black",
+          "horsePattern": "none",
+          "horseAge": 10
+      }
+    ],
+    "stables": [
+        {
+            "stableID": 1,
+            "stableName": "Erynuvial Estates",
+            "stableSize": 30
+        }
+
+    ]
+}
